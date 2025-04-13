@@ -3,7 +3,7 @@
 Chippie is my DIY retro handheld console project built around the W65C02S CPU. The goal is to create a compact, portable gaming device with a framebuffer-based graphics system and other components.
 
 ## Features (Planned)
-- **CPU**: W65C02S, an 8-bit microprocessor based on the 6502.
+- **CPU**: W65C816, an 8-bit microprocessor based on the 6502.
 - **Graphics**: Framebuffer-based rendering for retro-style visuals, including an LCD.
 - **Input**: Physical buttons and a D-pad.
 - **Audio**: TBD (Likely an 8-bit audio chip).
@@ -17,7 +17,7 @@ Chippie is my DIY retro handheld console project built around the W65C02S CPU. T
 3. Make playable games for the console.
 
 ### Components
-- **W65C02S CPU**
+- **W65C816 CPU**
 - Framebuffer for rendering graphics on the screen (specific implementation TBD)
 - Input/output components (TBD)
 - LiPo battery and related power management components (TBD).
