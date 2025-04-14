@@ -4,5 +4,8 @@ CMakeCache.txt
 CMakeFiles/
 Makefile
 
+# Visual Studio Code files
+.vscode/
+
 # Build files
 bin/
